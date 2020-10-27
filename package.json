@@ -20,5 +20,13 @@
   "license": "MIT",
   "dependencies": {
     "inquirer": "^7.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ser14joker/tsconfig-creator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ser14joker/tsconfig-creator/issues"
+  },
+  "homepage": "https://github.com/ser14joker/tsconfig-creator#readme"
 }
