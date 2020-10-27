@@ -1,0 +1,24 @@
+{
+  "name": "tsconfig-creator",
+  "version": "1.0.0",
+  "description": "`tsconfig.json` creator 😇",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "tsconfig",
+    "tsconfig.json",
+    "typescript",
+    "ts",
+    "react",
+    "react-native",
+    "node"
+  ],
+  "author": "Ayoub El Hayat",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
